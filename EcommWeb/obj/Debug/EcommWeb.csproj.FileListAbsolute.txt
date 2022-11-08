@@ -77,3 +77,7 @@ C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\obj\Debug\EcommWeb.csproj.
 C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\obj\Debug\EcommWeb.csproj.CopyComplete
 C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\obj\Debug\EcommWeb.dll
 C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\obj\Debug\EcommWeb.pdb
+C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\bin\EntityFramework.dll
+C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\bin\EntityFramework.xml
+C:\Users\nishiraj nath\source\repos\EcommWeb\EcommWeb\bin\EntityFramework.SqlServer.xml
